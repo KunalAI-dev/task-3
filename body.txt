@@ -1,0 +1,6 @@
+Hi {name},
+
+Please find the attached report for today.
+
+Best regards,
+Kunal
