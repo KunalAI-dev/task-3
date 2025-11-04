@@ -1,0 +1,7 @@
+python send_emails.py \
+  --sender "youremail@gmail.com" \
+  --app-password "your_app_password_here" \
+  --subject "Daily Report" \
+  --body "body.txt" \
+  --recipients "recipients.csv" \
+  --attachment "report.xlsx"
